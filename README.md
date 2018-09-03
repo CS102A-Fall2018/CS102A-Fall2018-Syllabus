@@ -10,7 +10,7 @@ Office Hours: after class (Tuesdays 8PM-9PM, Wednesdays 9PM-10PM) and by appoint
 
 ## Textbooks
 Textbooks are not required for the course, but they may be useful to have. These two are the two I recommend.
-- The C Programming Language, 2nd Edition - Brian W. Kernighan & Dennis M. Ritchie
+- [The C Programming Language, 2nd Edition - Brian W. Kernighan & Dennis M. Ritchie](https://goo.gl/XdHs5x)
 - [Python Programming for the Absolute Beginner, 3rd Edition - Mihael Dawson](https://goo.gl/WtWwhK)
 
 Other books that you may find useful are:
