@@ -48,14 +48,14 @@ For the latest up to date schedule, see: [https://hong3cooper.github.io/cs102a_f
 - Conditional Statements, Basic Input/Output  
 
 09/25/18  
-**Quiz #1** - printf & conditionals  
+- **Quiz #1** - printf & conditionals  
 - Switch, Loops, Basic Arrays  
 
 10/02/18    
 - Basic Functions, Tic-Tac-Toe  
 
 10/09/18  
-**Quiz #2** - Loops & Arrays
+- **Quiz #2** - Loops & Arrays
 - More about Functions, Program Structure, Make Files  
 
 10/16/18  
@@ -65,14 +65,14 @@ For the latest up to date schedule, see: [https://hong3cooper.github.io/cs102a_f
 - Pointers & Arrays (continued)  
 
 10/30/18    
-**Quiz #3** - Pointers  
+- **Quiz #3** - Pointers  
 - Structures   
 
 11/06/18  
 - Structures (continued), Debugging & Testing, Github Forks 
 
 11/13/18  
-**Quiz #4** - Structures  
+- **Quiz #4** - Structures  
 - Introduction to Python  
 
 11/27/18  
@@ -82,8 +82,8 @@ For the latest up to date schedule, see: [https://hong3cooper.github.io/cs102a_f
 - Python Classes and Modules  
 
 12/11/18  
-**Final Project Presentations**  
+- **Final Project Presentations**  
 
 12/18/18  
-**Final Exam**
-**All Late Homework Due**
+- **Final Exam**
+- **All Late Homework Due**
